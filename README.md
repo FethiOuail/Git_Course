@@ -2,3 +2,6 @@
 For zero web school Git course
 
 ## Project Note
+
+@octocat :+1: This PR looks great - it's ready to merge! :shipit:
+
