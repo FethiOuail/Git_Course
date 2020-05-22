@@ -5,3 +5,4 @@ For zero web school Git course
 
 @octocat :+1: This PR looks great - it's ready to merge! :shipit:
 
+![Farmers Market Finder Demo](demo/demo.gif)
