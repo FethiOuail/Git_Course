@@ -1,4 +1,5 @@
-# Git_Course 	/chrome-web-store/price/:storeId
+# Git_Course 
+
 For ShadowF Git And GitHub course
 
 ## Project Note
